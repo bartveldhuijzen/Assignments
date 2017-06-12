@@ -11,3 +11,5 @@
 [Assignment week 8](https://github.com/bartveldhuijzen/Assignments/blob/master/assignment(5).ipynb)
 
 [Final Python assignment](https://github.com/bartveldhuijzen/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Final R assignment](https://github.com/bartveldhuijzen/Assignments/blob/master/OECD_R_exam.ipynb)
